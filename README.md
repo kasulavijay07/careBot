@@ -1,5 +1,25 @@
-# AI-Health-Assistant
-AI-powered Medical Chatbot 🤖 that provides health advice, disease-symptom analysis, and multilingual support using NLP and machine learning. It helps users receive personalized recommendations and health tips in multiple languages.
+# CareBot: AI Health Assistant
+
+CareBot is an AI-powered health assistant that provides personalized medical advice and wellness tips. It uses natural language processing to understand health concerns and provides relevant information and recommendations.
+
+## Features
+
+- Personalized health advice based on symptoms
+- Disease information and recommended cures
+- Wellness tips tailored to specific conditions
+- Multi-language support
+- Modern and user-friendly interface
+
+## How to Use
+
+1. Enter your health-related question or describe your symptoms
+2. Select your preferred language
+3. Click "Get Health Advice" to receive personalized recommendations
+4. Review the suggested disease information and health tips
+
+## Note
+
+This is an AI assistant and should not replace professional medical advice. For medical emergencies, please contact your healthcare provider or emergency services.
 
 🚀 Features
 
