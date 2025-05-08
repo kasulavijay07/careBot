@@ -40,6 +40,3 @@ CareBot is an AI-powered health assistant that provides personalized medical adv
 - **Pandas**: For data handling
 - **Google Translate API**: For multilingual support
 
-## Note
-This is an AI assistant and should not replace professional medical advice. For medical emergencies, please contact your healthcare provider or emergency services.
-
