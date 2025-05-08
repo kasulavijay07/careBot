@@ -177,13 +177,9 @@ keyword_category_map = {
 }
 
 # Translate text using async-safe method
-async def async_translate(text, dest_language='en'):
-    return await translator.translate(text, dest=dest_language)
-
 def translate_text(text, dest_language='en'):
     try:
-        loop = asyncio.get_event_loop()
-        result = loop.run_until_complete(async_translate(text, dest_language))
+        result = translator.translate(text, dest=dest_language)
         return result.text
     except Exception as e:
         return f"Translation failed: {str(e)}"
